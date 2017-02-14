@@ -1,0 +1,19 @@
+{
+  "name": "hapi-tut-monolith-01",
+  "version": "1.0.0",
+  "description": "Tutorial on Breaking the monolith by using hapi - 01 - Simple Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapi",
+    "tutorial",
+    "monolith"
+  ],
+  "author": "Scott Jones",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.1.0"
+  }
+}
