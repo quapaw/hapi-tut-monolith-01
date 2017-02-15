@@ -7,7 +7,7 @@ I have broken this down into the following steps
 
 | Project  | Description | Link |
 |---|---|---|
-|`hapi-tut-monolith-01`|A simple hello world hapi project| [https://github.com/quapaw/hapi-tut-monolith-01](github)|
+|``hapi-tut-monolith-01``|A simple hello world hapi project| [https://github.com/quapaw/hapi-tut-monolith-01](github)|
 |hapi-tut-monolith-02a|Add services - customers and products| [https://github.com/quapaw/hapi-tut-monolith-02a](github)|
 |hapi-tut-monolith-02b|Adding Glue and externalizing config| [https://github.com/quapaw/hapi-tut-monolith-02b](github)|
 |hapi-tut-monolith-02c|Moving services into their own folders| [https://github.com/quapaw/hapi-tut-monolith-02c](github)|
